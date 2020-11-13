@@ -98,17 +98,17 @@ body {
 #number7,
 #number8,
 #number9,
-#number10,
-#number11,
-#number12,
-#number13,
-#number15,
-#number14,
-#number16,
-#number17,
-#number18,
-#number19,
-#number20 {
+#number0,
+#plus,
+#minus,
+#equals,
+#divide,
+#percentage,
+#AC,
+#cancel,
+#multiply,
+#larger_than,
+#star {
   color: var(--colorMain);
   text-align: center;
   font-size: 2.2em;
@@ -129,17 +129,17 @@ body {
 #number7:hover,
 #number8:hover,
 #number9:hover,
-#number10:hover,
-#number11:hover,
-#number12:hover,
-#number13:hover,
-#number14:hover,
-#number15:hover,
-#number16:hover,
-#number17:hover,
-#number18:hover,
-#number19:hover,
-#number20:hover {
+#number0:hover,
+#plus:hover,
+#minus:hover,
+#equals:hover,
+#devide:hover,
+#percentage:hover,
+#AC:hover,
+#cancel:hover,
+#multiply:hover,
+#larger_than:hover,
+#star:hover {
   color: #cccccc;
   text-align: center;
   font-size: 2.2em;
